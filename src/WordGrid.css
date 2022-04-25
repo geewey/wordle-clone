@@ -1,0 +1,13 @@
+.correct {
+    color: green;
+}
+
+.present {
+    color: yellow;
+}
+
+.input {
+    max-width: 6.5em;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+}
